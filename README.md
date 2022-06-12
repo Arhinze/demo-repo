@@ -6,4 +6,4 @@ Demo repository - used just to learn git and github properly :)
 
 watch on youtube
 
-Still Learning Git - would get there soon :)
+Currently still learning Git - Would get there soon
